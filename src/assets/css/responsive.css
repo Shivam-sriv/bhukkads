@@ -1,0 +1,108 @@
+@media screen and (min-width:300px) and (max-width:600px) {
+    .sliderhome.partners .owl-theme .owl-nav {
+        margin-top: -73%;
+    }
+    .team-member {        
+        width: 100%;
+    }
+    .max-sm-8
+    {
+        max-width: 7em;
+    }
+    .team-section
+    {
+        display: block;
+    }
+    .restaurant-details {
+       height: auto;
+    }
+    .restaurant-details .slider-restaurant .owl-carousel .owl-item img {
+        height: 300px;
+         max-width: 100%;
+
+    }
+    .footer-nav
+{  
+ 
+  padding: 1em 0px 0em;
+}
+.asc-none
+{
+    align-self: normal !important;
+}
+.line-h-40 {
+    line-height: 31px;
+    font-size: 21px;
+    margin-bottom: 14px;
+}
+    .w-favorite
+{
+    width: 30%;
+}
+.cart, .confirm-order {  
+    padding: 9px;
+}
+.tab-filter-box {
+    margin-top: 26%;
+}
+.heading {
+      font-size: 20px;
+}
+
+
+.w-smc-100
+{
+    width: 100%!important;
+}
+#search-wrapper {
+    width: 100%!important;
+}
+.banner-para {   
+    font-size: 22px;
+}
+.detail-res p,.detail-res h4
+{
+  font-size: 22px;
+}
+
+
+}
+@media screen and (max-width:1024px) {
+    .tab-filter-box {
+        margin-top: 26%;
+    } 
+    .restaurant-details {   
+        height: auto;
+    }
+    .footer-link a
+{
+    display:  block !important;
+    margin-top: 10px;
+}
+.detail-info
+{
+    padding: 44px;
+
+}
+.billing-address-detail {   
+    max-width: 100%;
+}
+.text-sm-center
+{
+    text-align: center;
+}
+.footer-app img {
+    max-width: 11em;
+}
+.footer {
+       padding: 1em 0px 0px;
+}
+ /* .footer .img2
+ {
+  max-width: 7em;
+  } */
+    .br-2
+{
+    border:0px;
+}
+}
